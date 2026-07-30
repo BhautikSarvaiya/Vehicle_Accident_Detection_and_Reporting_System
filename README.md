@@ -4,9 +4,13 @@ Developed a Vehicle Accident Detection and Reporting System using embedded syste
 #Technologies & Components:
 
 ESP32 Dev Module/Arduino Uno
+
 MPU6050 Accelerometer & Gyroscope
+
 NEO-6M GPS Module
+
 SIM800L GSM Module
+
 Arduino IDE
 
 #Key Features:
