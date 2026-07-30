@@ -24,4 +24,5 @@ Automatically sends an SMS containing the accident location to predefined emerge
 Initiates an automatic phone call to emergency contacts for immediate attention.
 
 Enables faster emergency response by reducing the need for manual intervention.
+
 Compact and reliable embedded system designed for vehicle safety applications.
