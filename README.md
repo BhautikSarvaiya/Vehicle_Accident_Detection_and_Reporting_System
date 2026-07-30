@@ -1,7 +1,7 @@
 # Vehicle_Accident_Detection_and_Reporting_System
 Developed a Vehicle Accident Detection and Reporting System using embedded systems technology to automatically detect vehicle accidents and provide immediate emergency notifications.
 
-Technologies & Components:
+@Technologies & Components:
 
 ESP32 Dev Module/Arduino Uno
 
@@ -13,7 +13,7 @@ SIM800L GSM Module
 
 Arduino IDE
 
-Key Features:
+@Key Features:
 
 Detects vehicle accidents using the MPU6050 accelerometer and gyroscope.
 
